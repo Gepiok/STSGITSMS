@@ -1,0 +1,2 @@
+# STSGITSMS
+student management System
